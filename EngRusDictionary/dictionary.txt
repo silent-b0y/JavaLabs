@@ -1,0 +1,32 @@
+word | слово1
+ word1 | слово
+ word | слово | слово
+ слово | word
+ word. | слово.
+ she | она
+ she is | она есть
+ love | любить
+ is | есть
+ this | этот
+  beautiful | красивый
+ cat | кошка
+  Look | Смотреть
+  Look forward to | Ждать с нетерпением
+   I look forward to | я жду с нетерпением
+  looking | смотреть
+   look at | смотреть на
+   programming language | язык программирования
+  hello | привет
+  Apple| Яблоко
+ Banana |Банан
+ the best | самый лучший
+ Car|Машина
+ Dog | Собака
+  House | Дом
+ window | окно
+ Tree | Дерево
+ Book | Книга
+ Computer | Компьютер
+ Water | Вода
+  Sun | Солнце
+ java | джава
